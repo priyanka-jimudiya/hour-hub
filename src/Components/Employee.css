@@ -1,0 +1,24 @@
+h1 {
+    color: #FFFFFF;
+    font-size: 28px;
+    padding: 24px 0;
+}
+
+.form-label {
+    color: #B8C1CD;
+}
+
+.form-control {
+    background-color: #103158;
+    width: 390px;
+    border: none;
+}
+
+.cal {
+    color: #B8C1CD;
+    font-size: 14px;
+}
+
+.cal p {
+    margin: 10px 0;
+}
