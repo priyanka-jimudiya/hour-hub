@@ -2,10 +2,10 @@ import React from 'react';
 import './Employee.css';
 function Employee() {
     return (
-        <div style={{ backgroundColor: '#13345A', padding: '24px 24px 0' }}>
+        <div style={{ backgroundColor: '#13345A', padding: '24px 24px 0', height: '100%' }}>
             <div className='container'>
                 <button type="button" class="btn d-flex text-white">
-                    <img src='./Images/Back.png' />
+                    <img src='./Images/Back.png' alt='' />
                     Back
                 </button>
                 <h1>Edit Employee</h1>

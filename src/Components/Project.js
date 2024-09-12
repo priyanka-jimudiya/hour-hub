@@ -2,7 +2,7 @@ import React from 'react'
 
 function Project() {
     return (
-        <div style={{ backgroundColor: '#13345A', paddingLeft: '10px' }}>
+        <div style={{ backgroundColor: '#13345A', paddingLeft: '10px', height: '100%' }}>
             <nav class="navbar">
                 <div class="container">
                     <span class="navbar-brand mb-0 h1 text-white">Project</span>
@@ -48,14 +48,14 @@ function Project() {
                         <p>This project is used to record internal expenses such as illness or holidays.</p>
                     </div>
                     <div className='col d-flex ml-3'>
-                        <img src='./Images/Position.png' style={{ height: '25px', width: '25px' }} />
+                        <img src='./Images/Position.png' alt='' style={{ height: '25px', width: '25px' }} />
                         <p style={{ color: '#0E8DF0', marginLeft: '4px' }}>2</p>
                     </div>
                     <div className='col'>
                         <button type="button" class="btn btn-secondary btn-sm" style={{ backgroundColor: '#70BFFE1A', color: '#70BFFE' }}>Active</button>
                     </div>
                     <div className='col'>
-                        <img src='./Images/Action.png' />
+                        <img src='./Images/Action.png' alt='' />
                     </div>
                 </div>
                 <div className='row g-0 py-2' style={{ borderBottom: '1px solid white' }}>
@@ -67,14 +67,14 @@ function Project() {
                         <p>This project records all expenses for Bryan's megacorporation</p>
                     </div>
                     <div className='col d-flex ml-3'>
-                        <img src='./Images/Position.png' style={{ height: '25px', width: '25px' }} />
+                        <img src='./Images/Position.png' alt='' style={{ height: '25px', width: '25px' }} />
                         <p style={{ color: '#0E8DF0', marginLeft: '4px' }}>1</p>
                     </div>
                     <div className='col'>
                         <button type="button" class="btn btn-secondary btn-sm" style={{ backgroundColor: '#70BFFE1A', color: '#70BFFE' }}>Active</button>
                     </div>
                     <div className='col'>
-                        <img src='./Images/Action.png' />
+                        <img src='./Images/Action.png' alt='' />
                     </div>
                 </div>
                 <div className='row g-0 py-2' style={{ borderBottom: '1px solid white' }}>
@@ -86,14 +86,14 @@ function Project() {
                         <p>This project records all efforts required to create Enis Badoglu's website.</p>
                     </div>
                     <div className='col d-flex ml-3'>
-                        <img src='./Images/Position.png' style={{ height: '25px', width: '25px' }} />
+                        <img src='./Images/Position.png' alt='' style={{ height: '25px', width: '25px' }} />
                         <p style={{ color: '#0E8DF0', marginLeft: '4px' }}>3</p>
                     </div>
                     <div className='col'>
                         <button type="button" class="btn btn-secondary btn-sm" style={{ backgroundColor: '#70BFFE1A', color: '#70BFFE' }}>Active</button>
                     </div>
                     <div className='col'>
-                        <img src='./Images/Action.png' />
+                        <img src='./Images/Action.png' alt='' />
                     </div>
                 </div>
                 <div className='row g-0 py-2' style={{ borderBottom: '1px solid white' }}>
@@ -105,14 +105,14 @@ function Project() {
                         <p>This project is used to record internal expenses such as illness or holidays.</p>
                     </div>
                     <div className='col d-flex ml-3'>
-                        <img src='./Images/Position.png' style={{ height: '25px', width: '25px' }} />
+                        <img src='./Images/Position.png' alt='' style={{ height: '25px', width: '25px' }} />
                         <p style={{ color: '#0E8DF0', marginLeft: '4px' }}>0</p>
                     </div>
                     <div className='col'>
                         <button type="button" class="btn btn-secondary btn-sm" style={{ backgroundColor: '#70BFFE1A', color: '#70BFFE' }}>Active</button>
                     </div>
                     <div className='col'>
-                        <img src='./Images/Action.png' />
+                        <img src='./Images/Action.png' alt='' />
                     </div>
                 </div>
                 <div className='row g-0 py-2' style={{ borderBottom: '1px solid white' }}>
@@ -124,14 +124,14 @@ function Project() {
                         <p>This project records all expenses for Bryan's megacorporation</p>
                     </div>
                     <div className='col d-flex ml-3'>
-                        <img src='./Images/Position.png' style={{ height: '25px', width: '25px' }} />
+                        <img src='./Images/Position.png' alt='' style={{ height: '25px', width: '25px' }} />
                         <p style={{ color: '#0E8DF0', marginLeft: '4px' }}>4</p>
                     </div>
                     <div className='col'>
                         <button type="button" class="btn btn-secondary btn-sm" style={{ backgroundColor: '#70BFFE1A', color: '#70BFFE' }}>Active</button>
                     </div>
                     <div className='col'>
-                        <img src='./Images/Action.png' />
+                        <img src='./Images/Action.png' alt='' />
                     </div>
                 </div>
                 <div className='row g-0 py-2' style={{ borderBottom: '1px solid white' }}>
@@ -143,14 +143,14 @@ function Project() {
                         <p>This project records all efforts required to create Enis Badoglu's website.</p>
                     </div>
                     <div className='col d-flex ml-3'>
-                        <img src='./Images/Position.png' style={{ height: '25px', width: '25px' }} />
+                        <img src='./Images/Position.png' alt='' style={{ height: '25px', width: '25px' }} />
                         <p style={{ color: '#0E8DF0', marginLeft: '4px' }}>2</p>
                     </div>
                     <div className='col'>
                         <button type="button" class="btn btn-secondary btn-sm" style={{ backgroundColor: '#70BFFE1A', color: '#70BFFE' }}>Active</button>
                     </div>
                     <div className='col'>
-                        <img src='./Images/Action.png' />
+                        <img src='./Images/Action.png' alt='' />
                     </div>
                 </div>
                 <div className='row g-0 py-2'>
@@ -162,14 +162,14 @@ function Project() {
                         <p>This project is used to record internal expenses such as illness or holidays.</p>
                     </div>
                     <div className='col d-flex ml-3'>
-                        <img src='./Images/Position.png' style={{ height: '25px', width: '25px' }} />
+                        <img src='./Images/Position.png' alt='' style={{ height: '25px', width: '25px' }} />
                         <p style={{ color: '#0E8DF0', marginLeft: '4px' }}>3</p>
                     </div>
                     <div className='col'>
                         <button type="button" class="btn btn-secondary btn-sm" style={{ backgroundColor: '#70BFFE1A', color: '#70BFFE' }}>Active</button>
                     </div>
                     <div className='col'>
-                        <img src='./Images/Action.png' />
+                        <img src='./Images/Action.png' alt='' />
                     </div>
                 </div>
             </div>
@@ -179,23 +179,23 @@ function Project() {
                         <p style={{ color: '#B8C1CD' }}>Showing rows </p>
                         <button type="button" class="btn btn-outline-light d-flex mx-3">
                             5
-                            <img src='./Images/arrow.png' className='pl-2 mt-1' />
+                            <img src='./Images/arrow.png' alt='' className='pl-2 mt-1' />
                         </button>
                     </div>
                     <nav aria-label="Page navigation example" >
                         <ul class="pagination" style={{ justifyContent: 'end' }}>
                             <li class="page-item">
-                                <a class="page-link" href="#" aria-label="Previous" style={{ backgroundColor: '#13345A', border: 'none' }}>
+                                <a class="page-link" href="-" aria-label="Previous" style={{ backgroundColor: '#13345A', border: 'none' }}>
                                     <span>&laquo;</span>
                                 </a>
                             </li>
-                            <li class="page-item"><a class="page-link mx-1" href="#" style={{ backgroundColor: '#0E8DF01A', border: '1px solid #0E8DF0', borderRadius: '10px' }}>1</a></li>
-                            <li class="page-item"><a class="page-link" href="#" style={{ backgroundColor: '#13345A', border: 'none' }}>2</a></li>
-                            <li class="page-item"><a class="page-link" href="#" style={{ backgroundColor: '#13345A', border: 'none' }}>3</a></li>
-                            <li class="page-item"><a class="page-link" href="#" style={{ backgroundColor: '#13345A', border: 'none' }}>...</a></li>
-                            <li class="page-item"><a class="page-link" href="#" style={{ backgroundColor: '#13345A', border: 'none' }}>10</a></li>
+                            <li class="page-item"><a class="page-link mx-1" href="-" style={{ backgroundColor: '#0E8DF01A', border: '1px solid #0E8DF0', borderRadius: '10px' }}>1</a></li>
+                            <li class="page-item"><a class="page-link" href="-" style={{ backgroundColor: '#13345A', border: 'none' }}>2</a></li>
+                            <li class="page-item"><a class="page-link" href="-" style={{ backgroundColor: '#13345A', border: 'none' }}>3</a></li>
+                            <li class="page-item"><a class="page-link" href="-" style={{ backgroundColor: '#13345A', border: 'none' }}>...</a></li>
+                            <li class="page-item"><a class="page-link" href="-" style={{ backgroundColor: '#13345A', border: 'none' }}>10</a></li>
                             <li class="page-item">
-                                <a class="page-link" href="#" aria-label="Next" style={{ backgroundColor: '#13345A', border: 'none' }}>
+                                <a class="page-link" href="-" aria-label="Next" style={{ backgroundColor: '#13345A', border: 'none' }}>
                                     <span aria-hidden="true">&raquo;</span>
                                 </a>
                             </li>
